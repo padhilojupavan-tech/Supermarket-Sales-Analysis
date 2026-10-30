@@ -1,0 +1,101 @@
+order_id,customer_id,customer_name,product,category,quantity,price,amount,order_date,city,payment_method,status
+1,24,Divya,Cooking Oil,Grocery,1,140,140,2026-03-04,Hyderabad,UPI,Delivered
+2,19,Swathi,Potato,Vegetables,2,35,70,2026-01-09,Khammam,UPI,Delivered
+3,20,Pavan Kumar,Cake,Bakery,9,250,2250,2026-05-24,Hyderabad,Card,Cancelled
+4,15,Lakshmi,Apple,Fruits,4,160,640,2026-03-13,Khammam,UPI,Pending
+5,5,Sneha,Cheese,Dairy,5,180,900,2026-03-28,Khammam,UPI,Pending
+6,28,Harika,Cooking Oil,Grocery,6,140,840,2026-06-04,Warangal,UPI,Pending
+7,30,Ravi,Potato,Vegetables,2,35,70,2026-01-21,Nalgonda,Cash,Cancelled
+8,7,Akhil,Butter,Dairy,10,120,1200,2026-01-18,Khammam,Card,Delivered
+9,28,Arjun,Curd,Dairy,2,40,80,2026-01-26,Vijayawada,Cash,Pending
+10,12,Harika,Butter,Dairy,3,120,360,2026-02-23,Warangal,Card,Delivered
+11,18,Sravani,Soap,Personal Care,3,40,120,2026-03-04,Hyderabad,Cash,Pending
+12,8,Prabhu,Milk,Dairy,9,35,315,2026-03-25,Khammam,UPI,Delivered
+13,9,Priya,Cheese,Dairy,7,180,1260,2026-02-24,Nalgonda,Card,Delivered
+14,13,Charan,Bread,Bakery,8,35,280,2026-06-14,Vijayawada,UPI,Delivered
+15,24,Teja,Dal,Grocery,4,110,440,2026-05-18,Warangal,Card,Cancelled
+16,13,Harika,Apple,Fruits,10,160,1600,2026-02-26,Hyderabad,Card,Pending
+17,28,Suresh,Sugar,Grocery,1,50,50,2026-02-09,Hyderabad,Card,Pending
+18,13,Ravi,Soap,Personal Care,2,40,80,2026-06-02,Vijayawada,Card,Delivered
+19,22,Sravani,Potato,Vegetables,1,35,35,2026-01-30,Nalgonda,Cash,Delivered
+20,14,Kiran,Cooking Oil,Grocery,5,140,700,2026-04-27,Khammam,Card,Delivered
+21,17,Deepika,Tomato,Vegetables,3,40,120,2026-01-28,Warangal,Card,Cancelled
+22,5,Harika,Soap,Personal Care,4,40,160,2026-02-11,Nalgonda,Card,Delivered
+23,16,Pavan Kumar,Soap,Personal Care,6,40,240,2026-01-29,Warangal,Cash,Delivered
+24,29,Lakshmi,Wheat Flour,Grocery,4,45,180,2026-01-21,Khammam,Card,Pending
+25,25,Anjali,Sugar,Grocery,9,50,450,2026-02-02,Vijayawada,Card,Delivered
+26,28,Varun,Milk,Dairy,9,35,315,2026-04-19,Hyderabad,Card,Delivered
+27,22,Meghana,Curd,Dairy,7,40,280,2026-04-06,Vijayawada,Card,Pending
+28,8,Priya,Cooking Oil,Grocery,4,140,560,2026-03-28,Khammam,Card,Cancelled
+29,8,Pavan Kumar,Cake,Bakery,10,250,2500,2026-01-19,Khammam,UPI,Delivered
+30,3,Manoj,Wheat Flour,Grocery,6,45,270,2026-03-02,Warangal,Card,Pending
+31,5,Sravani,Bread,Bakery,9,35,315,2026-05-27,Nalgonda,Cash,Delivered
+32,7,Suresh,Orange,Fruits,7,100,700,2026-01-25,Vijayawada,Cash,Pending
+33,28,Sravani,Apple,Fruits,8,160,1280,2026-01-14,Khammam,UPI,Pending
+34,8,Sneha,Cheese,Dairy,2,180,360,2026-02-18,Nalgonda,Cash,Delivered
+35,9,Naveen,Apple,Fruits,3,160,480,2026-03-05,Khammam,Cash,Cancelled
+36,21,Teja,Cooking Oil,Grocery,1,140,140,2026-01-04,Khammam,UPI,Delivered
+37,16,Sneha,Apple,Fruits,8,160,1280,2026-04-13,Khammam,UPI,Pending
+38,9,Deepika,Rice,Grocery,7,60,420,2026-04-27,Warangal,Cash,Cancelled
+39,7,Vamshi,Orange,Fruits,3,100,300,2026-02-25,Khammam,Card,Cancelled
+40,2,Rahul,Wheat Flour,Grocery,6,45,270,2026-05-30,Vijayawada,Card,Cancelled
+41,17,Priya,Biscuits,Bakery,1,30,30,2026-02-17,Khammam,Card,Delivered
+42,4,Charan,Cake,Bakery,7,250,1750,2026-05-26,Hyderabad,Card,Cancelled
+43,3,Swathi,Wheat Flour,Grocery,10,45,450,2026-06-18,Nalgonda,Card,Cancelled
+44,7,Prabhu,Cheese,Dairy,5,180,900,2026-03-22,Hyderabad,Cash,Pending
+45,15,Sai,Dal,Grocery,5,110,550,2026-01-19,Khammam,Cash,Cancelled
+46,3,Teja,Onion,Vegetables,2,45,90,2026-02-24,Nalgonda,Cash,Delivered
+47,29,Arjun,Butter,Dairy,2,120,240,2026-04-05,Warangal,UPI,Pending
+48,20,Kavya,Potato,Vegetables,5,35,175,2026-06-17,Nalgonda,UPI,Cancelled
+49,29,Anjali,Curd,Dairy,2,40,80,2026-03-09,Khammam,UPI,Cancelled
+50,10,Varun,Dal,Grocery,5,110,550,2026-02-23,Warangal,UPI,Delivered
+51,9,Charan,Tomato,Vegetables,8,40,320,2026-01-14,Khammam,Card,Pending
+52,1,Sai,Milk,Dairy,1,35,35,2026-02-03,Warangal,UPI,Pending
+53,18,Pavan Kumar,Potato,Vegetables,7,35,245,2026-01-29,Khammam,Card,Delivered
+54,27,Harika,Potato,Vegetables,1,35,35,2026-05-30,Nalgonda,UPI,Pending
+55,10,Harika,Dal,Grocery,1,110,110,2026-01-11,Warangal,UPI,Delivered
+56,25,Teja,Cooking Oil,Grocery,6,140,840,2026-04-15,Nalgonda,Card,Delivered
+57,26,Kavya,Cake,Bakery,3,250,750,2026-02-15,Vijayawada,UPI,Delivered
+58,26,Prabhu,Cheese,Dairy,7,180,1260,2026-03-05,Warangal,UPI,Delivered
+59,28,Keerthi,Eggs,Dairy,1,7,7,2026-02-26,Hyderabad,Cash,Delivered
+60,8,Pavan Kumar,Curd,Dairy,4,40,160,2026-06-18,Hyderabad,Cash,Delivered
+61,25,Divya,Milk,Dairy,2,35,70,2026-03-31,Nalgonda,Cash,Cancelled
+62,4,Charan,Cheese,Dairy,1,180,180,2026-03-08,Hyderabad,Card,Delivered
+63,20,Swathi,Wheat Flour,Grocery,2,45,90,2026-03-30,Warangal,Cash,Cancelled
+64,13,Charan,Tomato,Vegetables,2,40,80,2026-05-28,Hyderabad,Cash,Delivered
+65,17,Deepika,Apple,Fruits,1,160,160,2026-05-18,Hyderabad,Cash,Pending
+66,20,Sai,Sugar,Grocery,6,50,300,2026-06-19,Khammam,Card,Delivered
+67,22,Swathi,Tomato,Vegetables,5,40,200,2026-03-25,Vijayawada,Card,Delivered
+68,7,Swathi,Potato,Vegetables,3,35,105,2026-06-20,Vijayawada,Card,Delivered
+69,10,Ravi,Soap,Personal Care,10,40,400,2026-05-21,Khammam,Cash,Delivered
+70,26,Lakshmi,Bread,Bakery,7,35,245,2026-06-05,Warangal,Cash,Pending
+71,17,Keerthi,Banana,Fruits,4,60,240,2026-02-13,Khammam,Cash,Cancelled
+72,3,Vijay,Soap,Personal Care,6,40,240,2026-03-02,Warangal,UPI,Delivered
+73,2,Arjun,Dal,Grocery,1,110,110,2026-05-02,Nalgonda,UPI,Pending
+74,7,Akhil,Apple,Fruits,10,160,1600,2026-06-28,Vijayawada,Cash,Pending
+75,21,Akhil,Cake,Bakery,3,250,750,2026-01-02,Khammam,Cash,Delivered
+76,15,Rahul,Biscuits,Bakery,9,30,270,2026-05-23,Hyderabad,UPI,Pending
+77,22,Manoj,Dal,Grocery,8,110,880,2026-05-24,Nalgonda,Cash,Pending
+78,14,Vijay,Soap,Personal Care,9,40,360,2026-05-21,Vijayawada,UPI,Pending
+79,25,Arjun,Banana,Fruits,5,60,300,2026-06-13,Warangal,Card,Pending
+80,15,Priya,Cake,Bakery,5,250,1250,2026-03-15,Hyderabad,Cash,Delivered
+81,3,Anjali,Cheese,Dairy,9,180,1620,2026-02-08,Hyderabad,Cash,Delivered
+82,14,Swathi,Bread,Bakery,2,35,70,2026-03-26,Nalgonda,Cash,Pending
+83,27,Swathi,Wheat Flour,Grocery,4,45,180,2026-04-10,Nalgonda,Card,Delivered
+84,16,Pavan Kumar,Onion,Vegetables,7,45,315,2026-04-01,Warangal,Cash,Pending
+85,26,Varun,Potato,Vegetables,9,35,315,2026-02-26,Vijayawada,UPI,Delivered
+86,1,Ravi,Apple,Fruits,8,160,1280,2026-03-28,Vijayawada,Card,Delivered
+87,20,Teja,Banana,Fruits,3,60,180,2026-01-07,Vijayawada,Card,Cancelled
+88,21,Swathi,Rice,Grocery,2,60,120,2026-02-04,Vijayawada,UPI,Delivered
+89,11,Sneha,Milk,Dairy,7,35,245,2026-04-27,Warangal,Cash,Pending
+90,9,Vijay,Milk,Dairy,7,35,245,2026-01-21,Vijayawada,UPI,Cancelled
+91,8,Meghana,Wheat Flour,Grocery,6,45,270,2026-01-18,Khammam,UPI,Delivered
+92,20,Anjali,Bread,Bakery,1,35,35,2026-03-03,Hyderabad,Cash,Delivered
+93,15,Akhil,Onion,Vegetables,4,45,180,2026-03-07,Warangal,UPI,Cancelled
+94,25,Vijay,Soap,Personal Care,2,40,80,2026-02-11,Warangal,UPI,Cancelled
+95,19,Prabhu,Rice,Grocery,5,60,300,2026-04-07,Vijayawada,Card,Delivered
+96,23,Vijay,Sugar,Grocery,10,50,500,2026-06-10,Hyderabad,UPI,Delivered
+97,26,Lakshmi,Soap,Personal Care,2,40,80,2026-01-11,Warangal,Card,Pending
+98,17,Meghana,Butter,Dairy,2,120,240,2026-03-29,Khammam,Cash,Pending
+99,12,Meghana,Cooking Oil,Grocery,7,140,980,2026-04-28,Hyderabad,Cash,Delivered
+100,20,Kavya,Tomato,Vegetables,5,40,200,2026-05-18,Vijayawada,Cash,Pending
